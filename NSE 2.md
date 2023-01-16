@@ -177,4 +177,47 @@ Além do sandbox, o futuro da detecção prévia de malware desconhecido também
 O serviço de informações contra ameaças da Fortinet se chama FortiGuard® Labs
 
 
+## SOAR
 
+A SOAR conecta todas as outras ferramentas da sua pilha de segurança formando fluxos de trabalho definidos, que podem ser executados automaticamente. Em outras palavras, a SOAR aumenta a eficiência da sua equipe automatizando processos manuais repetitivos.
+
+Por exemplo, na SOAR, é possível bloquear tráfego de um endereço IP malicioso em seu firewall ou excluir um e-mail de phishing do seu servidor de e-mail
+
+Recursos fundamentais:
+
+- Orquestração e automatização
+- Investigação
+
+As investigações de phishing são um dos casos de uso mais comuns para a implementação da SOAR pelos clientes. Sem a SOAR, um analista passaria muito tempo investigando o remetente de um e-mail de phishing e os principais indicadores localizados no cabeçalho ou no corpo do e-mail.
+
+Nessas investigações, normalmente é preciso inserir domínios e URLs em uma plataforma de informações sobre ameaças. Se os analistas determinarem que o e-mail é prejudicial, terão de gastar mais tempo para investigar o servidor de e-mail e o SIM, determinar quem recebeu o e-mail e quem clicou nele, excluí-lo etc. Com um guia estratégico de investigação de phishing, as medidas de investigação iniciais são tomadas automaticamente assim que o e-mail de phishing for denunciado.
+
+O produto de SOAR da Fortinet se chama FortiSOAR™
+
+
+## Controle de Acesso à Rede (NAC)
+
+O NAC (Netwoork Access Control) é um dispositivo ou uma máquina virtual que controla o acesso de dispositivos à rede. Ele segmenta uma rede utilizando perfis do dispositivo.
+
+De acordo com os padrões IEEE 802.1X três partes participam da autenticação de rede:
+
+- Autenticador
+- Servidor de autenticação
+- Dispositivo cliente
+
+Atualmente as soluções NAC têm visibilidade completa da rede e são melhores em categorizar dispositivos automaticamente. Elas apresentam um bom desempenho em redes Ethernet e sem fio. Muitas soluções de NAC têm uma arquitetura centralizada que melhora o controle dos dispositivos em redes grandes e com locais distribuídos. É fundamental que o NAC também seja integrado à estrutura de segurança para que, quando uma violação for detectada, o NAC responda automaticamente para notificar a central de operações de segurança (SOC) e funcione em conjunto com outros dispositivos de segurança para neutralizar a ameaça.
+
+A Fortinet oferece uma solução de controle de acesso à rede chamada FortiNAC™.
+
+
+## Sandbox
+
+Um sandbox, no contexto de segurança da computação, é um sistema que limita as ações de um aplicativo, como abrir um documento ou um browser, a um ambiente virtual isolado. Com esse ambiente virtual seguro, o sandbox estuda as várias interações do aplicativo para descobrir qualquer intenção maliciosa.
+
+Os Sandbox mais modernos possuem recursos de automação e inteligência artificial
+
+O produto Sandbox Fortinet é denominado chamado FortiSandbox ™
+
+**MITRE ATT&CK** é uma estrutura, um conjunto de matrizes de dados e uma ferramenta de avaliação desenvolvida pela MITRE Corporation para ajudar as organizações a entender sua preparação para segurança e descobrir vulnerabilidades em seus métodos de defesa. 
+
+À medida que novas vulnerabilidades e superfícies de ataque surgem, elas são adicionadas à estrutura ATT&CK, que está em constante evolução.
