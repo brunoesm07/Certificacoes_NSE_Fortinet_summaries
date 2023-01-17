@@ -264,3 +264,12 @@ Hoje, uma maior automação e machine learning são integrados para proteger gat
 **Sender Policy Framework (SPF)** -> SPF é um método de autenticação de e-mail que detecta endereços de remetentes e e-mails falsos.
 
 Fortinet tem um SEG chamado FortiMail®
+
+
+## Filtro Web
+
+Aplicativo que examina as páginas da web recebidas para determinar se parte ou todo o conteúdo deve ser bloqueado. O Web Filter toma essas decisões com base em regras definidas pela organização ou indivíduo que instalou o aplicativo.
+
+Um Web Filter pode consultar um banco de dados de URL que lista sites e domínios que são conhecidos por hospedar malware, phishing e outros perigos.
+
+A Fortinet integrou filtros de web em vários de seus produtos: por exemplo, FortiClient®, FortiGate®, e para pontos de acesso sem fio, FortiAP™.
