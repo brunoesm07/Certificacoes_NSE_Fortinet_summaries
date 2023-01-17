@@ -221,3 +221,46 @@ O produto Sandbox Fortinet é denominado chamado FortiSandbox ™
 **MITRE ATT&CK** é uma estrutura, um conjunto de matrizes de dados e uma ferramenta de avaliação desenvolvida pela MITRE Corporation para ajudar as organizações a entender sua preparação para segurança e descobrir vulnerabilidades em seus métodos de defesa. 
 
 À medida que novas vulnerabilidades e superfícies de ataque surgem, elas são adicionadas à estrutura ATT&CK, que está em constante evolução.
+
+
+## Segurança da Informação e Gestão de Eventos (SIEM)
+
+O SIEM analisa alertas de segurança em tempo real. Fundamentalmente, o SIEM faz três coisas:
+
+1. Coleta, normaliza e armazena eventos de log e alertas da rede da organização e dispositivos de segurança, servidores, bancos de dados, aplicativos e terminais em um local central seguro.
+2. Executa análises avançadas nos dados, em tempo real e em dados históricos, para identificar possíveis incidentes de segurança que devem ser investigados por um ser humano. Os incidentes potenciais são priorizados por risco, gravidade e impacto.
+3. Comprova que todos os controles de segurança sob a alçada do SIEM estejam implementados e eficazes.
+
+Desenvolvimentos recentes no SIEM integraram o NOC e o SOC, estabelecendo assim o SIEM como o centro nervoso de todas as operações de rede e segurança.
+
+Em algumas décadas o SIEM evoluiu de uma plataforma de informações para um centro de inteligência de ameaças, para um centro totalmente integrado e automatizado para operações de segurança e rede. 
+
+A solução SIEM da Fortinet é chamada FortiSIEM ™
+
+
+## Web Application Firewall (WAFs)
+
+Um WAF é um dispositivo ou um software que monitora o tráfego HTTP/HTTPS e consegue bloquear tráfego malicioso de entrada ou saída em um aplicativo da Web. 
+
+Ao inspecionar o tráfego HTTP, um WAF pode impedir ataques originados em falhas de segurança de aplicativos da Web, como injeção de SQL, scripts entre sites, inclusão de arquivos e configurações de segurança incorretas.
+
+A diferença entre ele e um firewall de borda convencional é que ele visa o conteúdo de aplicativos específicos da Web e no nível do aplicativo, enquanto que os firewalls de borda criam gateways seguros entre a rede local e os servidores externos no nível da rede.
+
+A Fortinet tem um WAF chamado FortiWeb™
+
+
+## Gateway de E-mail Seguro
+
+Gateways de e-mail seguro surgiram para fornecer uma defesa mais rigorosa. Além do filtro de spam, eles adicionaram Scanners de antivírus, Emulação de ameaça e Sandboxing para detectar anexos e links maliciosos em tempo real.
+
+Hoje, uma maior automação e machine learning são integrados para proteger gateways de email, o que alivia as demandas colocadas nos centros de operações de segurança. Prevenção de Perda de Dados (DLP) também está disponível para detectar e parar a saída de dados confidenciais.
+
+**Spam** -> o ato de enviar mensagens irrelevantes e não solicitadas na internet, para um grande número de pessoas.
+
+**Filtros de spam** -> dependem da identificação de palavras ou padrões específicos nos cabeçalhos ou corpos das mensagens
+
+**Phishing** -> Prática fraudulenta de envio de e-mails supostamente de uma fonte confiável, a fim de induzir indivíduos a revelarem informações pessoais.
+
+**Sender Policy Framework (SPF)** -> SPF é um método de autenticação de e-mail que detecta endereços de remetentes e e-mails falsos.
+
+Fortinet tem um SEG chamado FortiMail®
