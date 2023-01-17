@@ -8,7 +8,7 @@ O programa Especialista em Segurança de Rede (NSE) da [Fortinet](https://www.fo
 
 **Conscientização**
 - NSE 1 | [Anotações](https://github.com/brunoesm07/Certificacoes_NSE_Fortinet_summaries/blob/main/NSE%201.md) | [Badge](https://github.com/brunoesm07/Certificacoes_NSE_Fortinet_summaries/blob/main/Badges/Badge%20NSE%201.png)
-- NSE 2 | [Anotações](https://github.com/brunoesm07/Certificacoes_NSE_Fortinet_summaries/blob/main/NSE%202.md) | Badge
+- NSE 2 | [Anotações](https://github.com/brunoesm07/Certificacoes_NSE_Fortinet_summaries/blob/main/NSE%202.md) | [Badge](https://github.com/brunoesm07/Certificacoes_NSE_Fortinet_summaries/blob/main/Badges/Badge%20NSE%202.png)
 - NSE 3
 
 **Técnica**
