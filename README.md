@@ -1,3 +1,5 @@
+<img width="514" height="100" src="https://user-images.githubusercontent.com/69209788/219729807-4eb263e4-baad-4033-a8eb-33a5730311c0.png">
+
 Nesse repositório você encontrará minhas anotações de estudos referentes às certificações NSE da Fortinet.
 
 ## Programa de certificação NSE Fortinet
